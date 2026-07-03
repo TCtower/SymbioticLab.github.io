@@ -63,6 +63,9 @@ sections:
 
   - title: "Selected Software Artifacts"
     items:
+      - name: "Branch-and-Browse"
+        github_url: "https://github.com/SymbioticLab/Branch-and-Browse"
+        description: "Efficient and controllable web exploration for LLM agents."
       - name: "Kareus"
         github_url: "https://github.com/ml-energy/kareus"
         description: "Train large models with less energy and time."
